@@ -2,6 +2,5 @@
 # newsletterSignup
 #### Sign up to my newsletter which was deployed using Heroku and build with Node and express and also connected to ChimpMail API. 
 
-
-https://git.heroku.com/glacial-reaches-78294
+## See it live here:  http://chriswok.tech/
 
